@@ -1,7 +1,7 @@
 SSL Diagnostics
 ===============
 
-A wrapper for Mislav Marohnić's SSL Doctor into a rake task.
+A rake task wrapper for Mislav Marohnić's SSL Doctor.
 
 See: http://mislav.uniqpath.com/2013/07/ruby-openssl/
 

@@ -9,12 +9,9 @@ Gem::Specification.new do |s|
   s.version     = SslDiagnostics::VERSION
   s.authors     = ["Rob Nichols"]
   s.email       = ["rob@undervale.co.uk"]
-  s.homepage    = "https://git.warwickshire.gov.uk/ssl_diagnostics"
+  s.homepage    = "https://github.com/warwickshire/ssl_diagnostics"
   s.summary     = "SSL Diagnostic tool"
   s.description = "Wrapper for Mislav Marohnić's SSL Doctor"
   s.license     = "MIT-LICENSE"
   s.files = Dir["lib/**/*"] + Dir["tasks/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
-
-
-
 end
